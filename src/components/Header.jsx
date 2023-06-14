@@ -10,7 +10,7 @@ const Header = () => {
     return (
       <header style={headerStyle} className={styles.header}>
         <h1>todos</h1>
-        <p>Items will persist in the browser local storage</p>
+        <p>Items will persist in the browser local storage...COMING SOON</p>
       </header>
     );
   };
